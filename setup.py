@@ -5,6 +5,8 @@ setup(
     packages=['craigslist'],
     install_requires=[
         'requests',
+        'python-dateutil',
+        'feedparser',
     ],
     dependency_links=[],
     description='Python library to scrape data from Craigslist',
