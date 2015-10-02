@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://losangeles.craigslist.org/search/sss?format=rss&#x26;query=macbook&#x25;20pro">
+<title>craigslist los angeles | for sale search "macbook pro"</title>
+<link>https://losangeles.craigslist.org/search/sss?query=macbook&#x25;20pro</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://losangeles.craigslist.org/search/sss?format=rss&#x26;query=macbook&#x25;20pro</dc:source>
+<dc:title>craigslist los angeles | for sale search "macbook pro"</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2015-10-01T22:03:09-07:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/sys/5248441923.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sfv/sys/5226701436.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/sys/5248415623.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/syd/5248395514.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/syd/5248377767.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/sys/5248413730.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/sys/5245165038.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/sys/5248408456.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/sys/5243665625.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/sys/5248340030.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/sys/5248335146.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/sys/5248319861.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/sys/5245150185.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/sys/5248312266.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/sys/5245148653.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/sys/5245142749.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/sys/5248232660.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sfv/sys/5248270542.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/sys/5248255315.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/sys/5241573852.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/sys/5248214271.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sfv/sys/5238837279.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/ele/5248101708.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/sys/5243036845.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sfv/sys/5248075212.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://losangeles.craigslist.org/lac/sys/5248441923.html">
+<title><![CDATA[Macbook Pro 13" Turbo 3.1GHz i5 512GB 8GB RAM AppleCare Late 2016 (Excellent MacBook Pro) &#x0024;850]]></title>
+<link>http://losangeles.craigslist.org/lac/sys/5248441923.html</link>
+<description><![CDATA[Up for sale my 13-inch Apple MacBook Pro 
+Current selling model for $1309.91 after tax. AppleCare Late 2016 
+Awesome deal. 
+Selling because I'm switching to Alienware. 
+2.50Ghz Intel Dual core i5 Turbo Boost 3.10Ghz 512GB 8.0GB Ram 1600MHz 
+Intel HD  [...]]]></description>
+<dc:date>2015-10-01T20:52:25-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/sys/5248441923.html</dc:source>
+<dc:title><![CDATA[Macbook Pro 13" Turbo 3.1GHz i5 512GB 8GB RAM AppleCare Late 2016 (Excellent MacBook Pro) &#x0024;850]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/01212_9imHhjmbawq_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-10-01T20:52:25-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sfv/sys/5226701436.html">
+<title><![CDATA[MacBook Pro :White 2010 (toluca Lake) &#x0024;350]]></title>
+<link>http://losangeles.craigslist.org/sfv/sys/5226701436.html</link>
+<description><![CDATA[I have a used 2010 MacBook pro...needs 2 small screws on bottom of computer. 1.Processor.2.4 Ghz Intel Core 2 Duo 
+2. Memory : 2 GB 1067 Mhz DDR3 
+3. SERIAL #: 45040UW3F5W 
+4. SOFTWARE: OS X 10.9.5 (13F34) 
+ASKING for $350 .....but willing to negotia [...]]]></description>
+<dc:date>2015-10-01T20:47:26-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sfv/sys/5226701436.html</dc:source>
+<dc:title><![CDATA[MacBook Pro :White 2010 (toluca Lake) &#x0024;350]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00S0S_ekgD4mzx6DL_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-10-01T20:47:26-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/sys/5248415623.html">
+<title><![CDATA[ 15" MacBook Pro Turbo 3.3GHz| i7 Quad-core|256SSD 16GB Warranty 2016 (Los Angeles) &#x0024;1150]]></title>
+<link>http://losangeles.craigslist.org/lac/sys/5248415623.html</link>
+<description><![CDATA[For Sale: 
+15" Apple MacBook Pro with AppleCare 2016 
+2.3 Turbo Boost 3.3Ghz 
+i7 Quad-core 
+256GB SSD Storage 
+16GB Ram 1600MHz 
+Dual Graphics Model 
+Nvidia GeForce GT 650M 
+Intel HD Graphics 4000 1024MB 
+Thunderbolt! port USB 3 SD Card slot 
+Laptop  [...]]]></description>
+<dc:date>2015-10-01T20:46:02-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/sys/5248415623.html</dc:source>
+<dc:title><![CDATA[ 15" MacBook Pro Turbo 3.3GHz| i7 Quad-core|256SSD 16GB Warranty 2016 (Los Angeles) &#x0024;1150]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00R0R_cgghptoy8uI_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-10-01T20:46:02-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/syd/5248395514.html">
+<title><![CDATA[MACBOOK PRO Aluminum 13"   - warranty (HOLLYwood) &#x0024;675]]></title>
+<link>http://losangeles.craigslist.org/lac/syd/5248395514.html</link>
+<description><![CDATA[- SOUTHERN CALIFORNIA COMPUTER BUYERS: 
+- Apple 13" MACBOOK PRO........ Aluminum, UNIBODY in EXCELLENT condition 
+- INTEL CORE i5......... 2.5 GHz 
+- 4 GB ram - 500 GB drive - super drive 
+- Airport + BLUETOOTH - built in camera - Good battery + 60 W [...]]]></description>
+<dc:date>2015-10-01T20:24:01-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/syd/5248395514.html</dc:source>
+<dc:title><![CDATA[MACBOOK PRO Aluminum 13"   - warranty (HOLLYwood) &#x0024;675]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00P0P_4NY2sgi6BU6_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-10-01T20:24:01-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/syd/5248377767.html">
+<title><![CDATA[MACBOOK PRO  13"- Intel Core i7  - warranty (all of L.A.) &#x0024;800]]></title>
+<link>http://losangeles.craigslist.org/lac/syd/5248377767.html</link>
+<description><![CDATA[- SOUTHERN CALIFORNIA COMPUTER BUYERS: 
+- Apple 13" MACBOOK PRO, UNIBODY in EXCELLENT condition 
+- INTEL CORE i7......... 2.8 GHz 
+- 4 GB ram - 750 GB drive - super drive 
+- Airport + BLUETOOTH - built in camera - Good battery + 60 W ac adapter 
+soft [...]]]></description>
+<dc:date>2015-10-01T20:22:34-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/syd/5248377767.html</dc:source>
+<dc:title><![CDATA[MACBOOK PRO  13"- Intel Core i7  - warranty (all of L.A.) &#x0024;800]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00P0P_4NY2sgi6BU6_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-10-01T20:22:34-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/sys/5248413730.html">
+<title><![CDATA[MACBOOK PRO 15' (Sherman Oaks / Woodland Hills) &#x0024;280]]></title>
+<link>http://losangeles.craigslist.org/lac/sys/5248413730.html</link>
+<description><![CDATA[For Sale: MACBOOK PRO, 15' inch. 
+Processor 2.4 GHz Intel Core 2 Duo | 4 GB 667 MHz DDR2 SDRAM | NVIDIA GeForce 8600M GT 256 MB | OS X 10.9.2 
+250 GO SSD drive (I replace it so the computer go fast). The SSD cost me $200. Maverick and more. 
+The batt [...]]]></description>
+<dc:date>2015-10-01T20:04:52-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/sys/5248413730.html</dc:source>
+<dc:title><![CDATA[MACBOOK PRO 15' (Sherman Oaks / Woodland Hills) &#x0024;280]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00404_jJkfY7DbWG6_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-10-01T20:04:52-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/sys/5245165038.html">
+<title><![CDATA[15.4" MacBook Pro Retina Display 3.7GHz 512GB (SSD)16GB (1600MHz) (Los Angeles) &#x0024;1900]]></title>
+<link>http://losangeles.craigslist.org/lac/sys/5245165038.html</link>
+<description><![CDATA[My Mac for sale 
+15" MacBook Pro Retina Display 
+2.5GHz Intel i7 Quad-core with Turbo Boost 3.7GHz 
+512GB Flash Storage (SSD) 
+16GB Ram Memory 1600MHz 
+Nvidia GeForce GT 750M 2048MB 
+Intel Iris Pro 1536MB 
+Just restored and brought back to factory se [...]]]></description>
+<dc:date>2015-10-01T20:04:33-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/sys/5245165038.html</dc:source>
+<dc:title><![CDATA[15.4" MacBook Pro Retina Display 3.7GHz 512GB (SSD)16GB (1600MHz) (Los Angeles) &#x0024;1900]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00i0i_8nNTNVfNXKR_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-10-01T20:04:33-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/sys/5248408456.html">
+<title><![CDATA[MacBook Pro Retina Display Nvidia 750M 2048MB 512Gb Flash Storage 16 RAM (Los Angeles) &#x0024;1899]]></title>
+<link>http://losangeles.craigslist.org/lac/sys/5248408456.html</link>
+<description><![CDATA[15" Apple Macbook Pro Retina display 
+AppleCare Good through 2016 
+Haswell Quad core i7 
+512 GB SSD flash storage PCIe 
+Intel Iris Pro video 1536MB + HD FaceTime 
+Nvidia GeForce GT 750M Video 2048MB 
+Thunderbolt 
+Integrated HDMI + USB 3.0 
+2.6GHz Tur [...]]]></description>
+<dc:date>2015-10-01T20:03:34-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/sys/5248408456.html</dc:source>
+<dc:title><![CDATA[MacBook Pro Retina Display Nvidia 750M 2048MB 512Gb Flash Storage 16 RAM (Los Angeles) &#x0024;1899]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/01313_bMvlY64cpPN_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-10-01T20:03:34-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/sys/5243665625.html">
+<title><![CDATA[2012 Macbook Pro 15" Retina 2.3Ghz 8GB 256GB SSD with Apple Care (Downtown La) &#x0024;1100]]></title>
+<link>http://losangeles.craigslist.org/lac/sys/5243665625.html</link>
+<description><![CDATA[Apple MacBook Pro Retina 15" i7 2.3 GHz Mid 2012 Model 
+8 GB RAM 
+256 GB SSD 
+Great condition. 
+Still under warranty Apple care 
+Call or text if interested. 
+Thank You]]></description>
+<dc:date>2015-10-01T19:52:23-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/sys/5243665625.html</dc:source>
+<dc:title><![CDATA[2012 Macbook Pro 15" Retina 2.3Ghz 8GB 256GB SSD with Apple Care (Downtown La) &#x0024;1100]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00w0w_hSP8t1fFf6H_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-10-01T19:52:23-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/sys/5248340030.html">
+<title><![CDATA[15" MacBook Pro Retina i7 Display 4.0GHz 512 SSD 16GB AppleCare 2017 (Los Angeles) &#x0024;2100]]></title>
+<link>http://losangeles.craigslist.org/lac/sys/5248340030.html</link>
+<description><![CDATA[Hi! Everybody 
+I'm putting up my computer for sale. 
+15" Apple MacBook Pro Retina Display 
+Hardware details 
+2.8GHz Intel Quad Core i7, Turbo Boost up to 4.0GHz 
+16GB 1600MHz DDR3L SDRAM 
+512GB PCIe-based Flash Storage 
+Intel Iris Pro Graphics 
+Nvidi [...]]]></description>
+<dc:date>2015-10-01T19:35:29-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/sys/5248340030.html</dc:source>
+<dc:title><![CDATA[15" MacBook Pro Retina i7 Display 4.0GHz 512 SSD 16GB AppleCare 2017 (Los Angeles) &#x0024;2100]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00y0y_fw8hM0Qaok4_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-10-01T19:35:29-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/sys/5248335146.html">
+<title><![CDATA[Macbook Pro 13/ Retina Display /8GB Ram/256GB SSD 3 year Warranty (Los Angeles) &#x0024;1200]]></title>
+<link>http://losangeles.craigslist.org/lac/sys/5248335146.html</link>
+<description><![CDATA[I always take extremely good care of my stuff. Computer is in perfect working condition, no scratches, no dents since it has always been inside case. 
+13" MacBook Pro Retina Display 
+Intel dual core i5 
+256GB of Flash Storage SSD 
+8GB Ram DDR3 
+Intel [...]]]></description>
+<dc:date>2015-10-01T18:51:48-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/sys/5248335146.html</dc:source>
+<dc:title><![CDATA[Macbook Pro 13/ Retina Display /8GB Ram/256GB SSD 3 year Warranty (Los Angeles) &#x0024;1200]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00707_fBSuCQM1Qa2_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-10-01T18:51:48-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/sys/5248319861.html">
+<title><![CDATA[(Early 2015) i5 2.7GHz Retina Display Macbook Pro, 8GB (Inglewood) &#x0024;1199]]></title>
+<link>http://losangeles.craigslist.org/wst/sys/5248319861.html</link>
+<description><![CDATA[LIKE NEW! NO scratches, NO cracks, or NO dents 
+I bought this Macbook pro on March 11, 2015. Unfortunately, I have to sell it because I need a 16GB computer, and you cannot upgrade the RAM in this models. 
+13-inch high-performance notebook with retin [...]]]></description>
+<dc:date>2015-10-01T18:51:33-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/sys/5248319861.html</dc:source>
+<dc:title><![CDATA[(Early 2015) i5 2.7GHz Retina Display Macbook Pro, 8GB (Inglewood) &#x0024;1199]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00o0o_4Kue7hsbesY_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-10-01T18:51:33-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/sys/5245150185.html">
+<title><![CDATA[15 MacBook Pro Retina Display i7 16GB RAM 512GB SSD Flash Turbo 3.8GHz (15-inch MacBook Pro Retina Display) &#x0024;1950]]></title>
+<link>http://losangeles.craigslist.org/lac/sys/5245150185.html</link>
+<description><![CDATA[15" Macbook Pro Retina Display 
+2.6 GHz Intel i7 Turbo Boost 3.8GHz 
+512GB SSD of Flash Storage 
+Video Card no. 1 
+Nvidia GeForce GT 750M 2048MB 
+Video Card no. 2 Intel Iris Pro Graphics 1536MB 
+USB 3 Thunderbolt 2 HDMI 
+16 GB Ram 1600 MHz 
+Active Ap [...]]]></description>
+<dc:date>2015-10-01T18:49:34-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/sys/5245150185.html</dc:source>
+<dc:title><![CDATA[15 MacBook Pro Retina Display i7 16GB RAM 512GB SSD Flash Turbo 3.8GHz (15-inch MacBook Pro Retina Display) &#x0024;1950]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00M0M_5rb3w9xfYYO_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-10-01T18:49:34-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/sys/5248312266.html">
+<title><![CDATA[15.4" Apple MacBook Pro 512GB SSD Retina Intel i7 Quad (AppleCare 2016 (Los Angeles) &#x0024;1500]]></title>
+<link>http://losangeles.craigslist.org/lac/sys/5248312266.html</link>
+<description><![CDATA[Posting 
+Apple 15" MacBook Pro Retina Display 
+512GB Flash Storage 
+2.3Ghz Turbo Boost 3.5GHz 
+Quad core i7 Intel 
+Dual video card 
+Intel Graphics 
+And Nvidia 
+Still under warranty till 2016 
+From 2013 ]]></description>
+<dc:date>2015-10-01T18:28:27-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/sys/5248312266.html</dc:source>
+<dc:title><![CDATA[15.4" Apple MacBook Pro 512GB SSD Retina Intel i7 Quad (AppleCare 2016 (Los Angeles) &#x0024;1500]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00q0q_6wXwJNWHgMk_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-10-01T18:28:27-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/sys/5245148653.html">
+<title><![CDATA[15" MacBook Pro Retina i7 2.5GHz 512GB SSD 16RAM Protection for 3years (Silver Lake) &#x0024;2195]]></title>
+<link>http://losangeles.craigslist.org/lac/sys/5245148653.html</link>
+<description><![CDATA[15" MacBook Pro (Brand New) 2015 
+It has 3 years of apple coverage. 
+15-inch Display 
+Speed: 2.5GHz Turbo Boost 3.7Ghz 
+i7 Quad-core Processor 
+512GB SSD Flash Storage PCIe based 
+16GB Ram 1600MHz 
+USB 3 x2 
+HDMI 
+(DG) Model (Dual Graphics) 
+Intel Ir [...]]]></description>
+<dc:date>2015-10-01T18:28:11-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/sys/5245148653.html</dc:source>
+<dc:title><![CDATA[15" MacBook Pro Retina i7 2.5GHz 512GB SSD 16RAM Protection for 3years (Silver Lake) &#x0024;2195]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00r0r_jndGVbLSHtD_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-10-01T18:28:11-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/sys/5245142749.html">
+<title><![CDATA[13" MacBook Pro Retina Display SSD Flash Intel Iris 1536MB (Los Angeles) &#x0024;895]]></title>
+<link>http://losangeles.craigslist.org/lac/sys/5245142749.html</link>
+<description><![CDATA[13-inch Apple MacBook Pro HD Retina Display 
+Perfect shape only used 10 times 
+2.4Ghz i5 Turbo Boost 3.1Ghz 
+128GB Flash Storage 
+Intel Iris Graphics 1536MB 
+Thunderbolt 
+HDMI 
+USB 3 
+4GB Ram 1600MHz ]]></description>
+<dc:date>2015-10-01T18:13:54-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/sys/5245142749.html</dc:source>
+<dc:title><![CDATA[13" MacBook Pro Retina Display SSD Flash Intel Iris 1536MB (Los Angeles) &#x0024;895]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00Z0Z_hBz0wzB8TTH_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-10-01T18:13:54-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/sys/5248232660.html">
+<title><![CDATA[Apple MacBook Pro 15" i7 8GB 500GB (West LA) &#x0024;649]]></title>
+<link>http://losangeles.craigslist.org/wst/sys/5248232660.html</link>
+<description><![CDATA[I have for sale my 2011 model Macbook Pro 15" 
+The laptop is in excellent condition... no dents.. very minor wear from regular use. 
+I would rate it a 9.5/10 for physical condition and 10/10 functional condition. 
+2.0ghz i7 processor 
+8GB ram 
+500gb  [...]]]></description>
+<dc:date>2015-10-01T17:51:22-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/sys/5248232660.html</dc:source>
+<dc:title><![CDATA[Apple MacBook Pro 15" i7 8GB 500GB (West LA) &#x0024;649]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-10-01T17:51:22-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sfv/sys/5248270542.html">
+<title><![CDATA[MacBook Pro 13 inch (Northridge) &#x0024;700]]></title>
+<link>http://losangeles.craigslist.org/sfv/sys/5248270542.html</link>
+<description><![CDATA[Selling my MacBook Pro 13 inch, in good condition but I no longer have the charger for it. Message me if you're interested!]]></description>
+<dc:date>2015-10-01T17:42:48-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sfv/sys/5248270542.html</dc:source>
+<dc:title><![CDATA[MacBook Pro 13 inch (Northridge) &#x0024;700]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-10-01T17:42:48-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/sys/5248255315.html">
+<title><![CDATA[UNOPENED Apple MacBook Pro MJLT2LL/A 15.4-Inch Laptop &#x0024;2200]]></title>
+<link>http://losangeles.craigslist.org/lac/sys/5248255315.html</link>
+<description><![CDATA[Unopened, Brand New Apple Macbook Pro exactly what is sold on Amazon for $2500 plus tax: 
+http://www.amazon.com/Apple-MacBook-MJLT2LL-15-4-Inch-Display/dp/B00XZGUL8W/ref=sr_1_5?s=pc&ie=UTF8&qid=1443745465&sr=1-5&keywords=macbook+pro+retina+15 
+2.5GHz [...]]]></description>
+<dc:date>2015-10-01T17:29:52-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/sys/5248255315.html</dc:source>
+<dc:title><![CDATA[UNOPENED Apple MacBook Pro MJLT2LL/A 15.4-Inch Laptop &#x0024;2200]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00y0y_diidmq0LSmW_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-10-01T17:29:52-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/sys/5241573852.html">
+<title><![CDATA[13" Apple Retina Macbook Pro 2.8GHz i7,  8 GB Ram, 256 GB SSD Drive (Los Angeles) &#x0024;1200]]></title>
+<link>http://losangeles.craigslist.org/lac/sys/5241573852.html</link>
+<description><![CDATA[Late-2013 Apple Retina Macbook Pro 13" 2.8GHz Intel i7 processor 
+256 GB SSD Drive 
+8 GB of Ram 
+Please call or text me if interested. 
+Thank You.]]></description>
+<dc:date>2015-10-01T17:28:42-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/sys/5241573852.html</dc:source>
+<dc:title><![CDATA[13" Apple Retina Macbook Pro 2.8GHz i7,  8 GB Ram, 256 GB SSD Drive (Los Angeles) &#x0024;1200]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00h0h_iQ3Joo8BRdZ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-10-01T17:28:42-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/sys/5248214271.html">
+<title><![CDATA[15" MacBook Pro 512GB SSD 16GB Ram i7 Haswell Purchased September 2014 (Los Angeles) &#x0024;1870]]></title>
+<link>http://losangeles.craigslist.org/lac/sys/5248214271.html</link>
+<description><![CDATA[Includes soft sleeve & Black/Red hard cover case. $80 dollar value free 
+15.4-inch MacBook Pro 
+Retina Display 
+2.5Ghz Turbo Boost 3.7GHz 
+Intel Quad core i7 Processor 
+512GB SSD | Flash Storage PCie Based 
+Thunderbolt 2.0 HDMI USB 3.0 
+16GB Ram 1600 [...]]]></description>
+<dc:date>2015-10-01T17:21:56-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/sys/5248214271.html</dc:source>
+<dc:title><![CDATA[15" MacBook Pro 512GB SSD 16GB Ram i7 Haswell Purchased September 2014 (Los Angeles) &#x0024;1870]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00H0H_6sEdsJI27cQ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-10-01T17:21:56-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sfv/sys/5238837279.html">
+<title><![CDATA[15 inch Apple MacBook Pro Core 2 Duo 2.8 GHz MB471LL/A late 2008 unibody glass 1 (Glendale) &#x0024;350]]></title>
+<link>http://losangeles.craigslist.org/sfv/sys/5238837279.html</link>
+<description><![CDATA[i have a 15 inch macbook pro i need to sell ASAP... comes with box, charger, and everything i got with it brand new.. perfect condition other than one tiny half inch dent next to track pad.. it is the fully loaded 2.8 ghz model email me with a phone  [...]]]></description>
+<dc:date>2015-10-01T17:08:34-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sfv/sys/5238837279.html</dc:source>
+<dc:title><![CDATA[15 inch Apple MacBook Pro Core 2 Duo 2.8 GHz MB471LL/A late 2008 unibody glass 1 (Glendale) &#x0024;350]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/01414_jp37npyBRt7_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-10-01T17:08:34-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/ele/5248101708.html">
+<title><![CDATA[Macbook Pro Retina 15" 2.8GHz i7 16GB 512GB SSD NVIDIA 2GB GPU !!!!!!! (Redondo Beach) &#x0024;2200]]></title>
+<link>http://losangeles.craigslist.org/wst/ele/5248101708.html</link>
+<description><![CDATA[Macbook Pro Retina 15.4 Inch 
+2.8Ghz i7 Quad Core CPU - top CPU you can get 
+16GB RAM 
+512GB Flash Storage 
+Intel Iris Pro Graphics 1.5GB and 
+NVIDIA GT 750M 2GB GPU 
+Original Box with matching serials. Charger also included. 
+Only 8 Cycle Charger. T [...]]]></description>
+<dc:date>2015-10-01T16:36:51-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/ele/5248101708.html</dc:source>
+<dc:title><![CDATA[Macbook Pro Retina 15" 2.8GHz i7 16GB 512GB SSD NVIDIA 2GB GPU !!!!!!! (Redondo Beach) &#x0024;2200]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00m0m_bDyAWFfRBHu_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-10-01T16:36:51-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/sys/5243036845.html">
+<title><![CDATA[Apple Retina MacBook Pro 15" i7 2.8Hz, 16GBRam, 768GB SSD (Los Angeles) &#x0024;1700]]></title>
+<link>http://losangeles.craigslist.org/lac/sys/5243036845.html</link>
+<description><![CDATA[15" inch Retina Apple MacBook Pro 
+2.8 GHz Quad Core i7 Processor, 
+768 Gigabyte Flash/SSD Drive 
+16 Gigabytes of Ram 
+Works perfectly, looks new 
+Call or text me if you are interested 
+Thank You]]></description>
+<dc:date>2015-10-01T16:19:45-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/sys/5243036845.html</dc:source>
+<dc:title><![CDATA[Apple Retina MacBook Pro 15" i7 2.8Hz, 16GBRam, 768GB SSD (Los Angeles) &#x0024;1700]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00B0B_9QmXy8pmkIg_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-10-01T16:19:45-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sfv/sys/5248075212.html">
+<title><![CDATA[2006 17" Apple Macbook Pro &#x0024;325]]></title>
+<link>http://losangeles.craigslist.org/sfv/sys/5248075212.html</link>
+<description><![CDATA[Top of the line 17" Macbook Pro. 2.16 Ghz. Intel Core Duo Processor, 2GB ram, 120GB hard drive. 
+Runs great, still very fast, nice big screen. Freshly installed Mac OS X Snow Leopard. 
+Includes charger.]]></description>
+<dc:date>2015-10-01T16:05:09-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sfv/sys/5248075212.html</dc:source>
+<dc:title><![CDATA[2006 17" Apple Macbook Pro &#x0024;325]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00G0G_8X4prLUQZUl_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-10-01T16:05:09-07:00</dcterms:issued>
+</item>
+</rdf:RDF>
