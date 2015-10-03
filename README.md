@@ -1,7 +1,7 @@
 Craigslist Scraper
 ==================
 
-Python library to scrape data from Craigslist
+Python library to scrape data from Craigslist.
 
 
 Install
