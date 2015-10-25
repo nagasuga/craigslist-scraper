@@ -8,7 +8,7 @@ Install
 =======
 
 ```
-pip install https://github.com/nagasuga/craigslist-scraper.git
+pip install git+https://github.com/nagasuga/craigslist-scraper.git
 ```
 
 Usage
